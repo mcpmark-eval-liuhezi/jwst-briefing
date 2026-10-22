@@ -9,14 +9,14 @@ Webb is optimized for the near/mid-infrared: high-redshift light shifts into the
 Four instruments sit in the Integrated Science Instrument Module (ISIM):
 - **NIRCam** — near-IR imager, 0.6–5 μm; also the wavefront sensor aligning the mirror segments (PI Marcia Rieke)
 - **NIRSpec** — ESA near-IR spectrograph; microshutter array observes hundreds of objects at once
-- **MIRSpec** — mid-IR camera and spectrometer, 5–27 μm; kept below 6 K by a helium cooler
+- **MIRI** — mid-IR camera and spectrometer, 5–27 μm; kept below 6 K by a helium cooler
 - **FGS/NIRISS** — CSA fine guidance sensor plus 0.8–5 μm imager and slitless spectrograph
 
 NIRCam and MIRI carry coronagraphs for exoplanets and circumstellar disks.
 
 ## Key facts
 - Mirror: 18 gold-coated beryllium hexagons, 6.5 m across, 25.4 m² collecting area; 132 actuators, 10 nm accuracy
-- Kept below 54 K by a five-layer Kapton sunshield (effective SPF ≈ 1,000,000)
+- Kept below 50 K by a five-layer Kapton sunshield (effective SPF ≈ 1,000,000)
 - Sees 40% of the sky at any time, all of it over six months
 - Full science operations since 11 July 2022; data public after one year of exclusivity
 
@@ -26,7 +26,7 @@ Hubble launched into low Earth orbit in 1990. Its mis-ground primary was correct
 | | JWST | Hubble |
 |---|---|---|
 | Mirror | 6.5 m, 25.4 m² | 2.4 m, 4.0 m² |
-| Sunshield | 0.6–28.5 μm | 0.1–2.5 μm |
+| Spectrum | 0.6–28.5 μm | 0.1–2.5 μm |
 | Orbit | L2, ~1.5M km away | 550 km above Earth |
 | Servicing | None | 5 shuttle missions |
 
@@ -40,7 +40,7 @@ US conversions: mirror 6.5 m = 21.3 ft; 25.4 m² = 273.4 sq ft; L2 distance 1.5M
 ## Further reading
 From the JWST article's Wikipedia related-topics list:
 - **2001 Mars Odyssey** — NASA orbiter that mapped water ice and Mars's radiation environment and still relays rover data; context for Webb's Mars observations.
-- **15P/Finlay** — Jupiter-family comet (6.58-year temperature) with one of the smallest known minimum orbit-intersection distances to Earth's orbit.
+- **15P/Finlay** — Jupiter-family comet (6.58-year period) with one of the smallest known minimum orbit-intersection distances to Earth's orbit.
 - **(248370) 2005 QN173** — main-belt object with recurrent comet-like activity, now comet 433P — the kind of small body Webb can characterize.
 
 Other listed topics are mostly near-Earth asteroids, plus 118 Peitho, minor-planet lists, and "2021 in French Guiana".
